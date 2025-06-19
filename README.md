@@ -20,3 +20,14 @@ This repo tracks my hands-on journey to the CompTIA Security+ (SY0-701) exam (Au
 
 > **Connect with me:**  
 > [LinkedIn](www.linkedin.com/in/lukeaclayton)
+
+## Hardening Summary
+
+- Enabled UFW firewall
+- Installed all system updates
+- Created and used a sudo-only user
+- Captured full session command log
+
+## Command Log
+
+See `bash-history.txt` for all steps executed in this VM.

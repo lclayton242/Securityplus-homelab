@@ -1,1 +1,2 @@
-![Ubuntu first login](screenshots/login_prompt.png)
+## Screenshots  
+![Ubuntu first login](screenshots/login.png)

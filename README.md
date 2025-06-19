@@ -1,20 +1,22 @@
-# Security+ Homelab & Mini-Portfolio
+# Ubuntu Hardening Proof — Security+ Lab
 
-Hi, I’m Luke — a creative-turned-cybersecurity-analyst-in-training.  
-This repo tracks my hands-on journey to the CompTIA Security+ (SY0-701) exam (Aug 13 2025).
+This folder documents the hardening of a baseline Ubuntu Server 22.04 virtual machine as part of Security+ (SY0-701) hands-on study.
 
-## Contents
-| Folder | What’s inside | Skills demonstrated |
-|--------|---------------|---------------------|
-| `ubuntu-hardening` | CIS-style secure baseline, screenshots, Bash history | OS hardening, automation |
-| `vuln-scan-demo`   | Nmap + OpenVAS XML/PDF, analysis summary | Vulnerability assessment |
-| `firewall-lab`     | pfSense rules, network diagram | Network segmentation, rule logic |
-| `tryhackme-writeups` | Room summaries & completion badges | Threat hunting, web exploits |
+## What was hardened
 
-## Work in progress
-- [ ] Add log-analysis BTLO challenge  
-- [ ] Automate baseline audit with Ansible  
-- [ ] Pass Security+ and celebrate
+- Enabled UFW firewall
+- Installed system updates (`sudo apt update && sudo apt upgrade -y`)
+- Created a non-root sudo user (`luke`)
+- Installed Guest Additions for VirtualBox
+- Secured clipboard, mount access, and reboot process
+
+## Screenshots
+
+![Ubuntu Login Prompt](screenshots/login.png)
+
+## Command Log
+
+See [`bash-history.txt`](bash-history.txt) for a full exported log of all commands executed during setup.
 
 ---
 

@@ -1,0 +1,11 @@
+cd ~
+history -w
+cd ~
+history -w
+cp ~/.bash_history bash-history.txt
+1s -1 bash-history.txt
+ls -1 bash-history.txt
+sudo poweroff
+cd ~
+history -W
+history -w

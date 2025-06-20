@@ -1,4 +1,4 @@
-## Daily Progress Log
+## DAILY PROGRESS LOG
 
 | Date       | Activity                                      |
 |------------|-----------------------------------------------|

@@ -22,7 +22,7 @@ This repository showcases a fully documented cybersecurity lab used to prepare f
 - Created a non-root user (`luke`)
 - Enabled OpenSSH for remote administration
 
-![pfSense Rules](screenshots/pfsense-lan-rules.png) — Ubuntu shell access confirmation
+![pfSense Rules](screenshots/login.png) — Ubuntu shell access confirmation
 
 ---
 

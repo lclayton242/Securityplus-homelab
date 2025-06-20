@@ -26,7 +26,7 @@ All stages include:
 - Exported scan and configuration files
 - GitHub commit history for traceability
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - VirtualBox
 - Ubuntu 24.04 LTS
@@ -34,11 +34,11 @@ All stages include:
 - Nmap
 - UFW (Uncomplicated Firewall)
 
-## 📌 Upcoming Stages
+## Upcoming Stages
 
-- ✅ Stage 5: Syslog + centralized logging with Graylog or Rsyslog
-- ✅ Stage 6: Threat detection in TryHackMe / BlueTeamLabs
-- ✅ Final: Resume-ready PDF + GitHub Pages showcase
+- Stage 5: Syslog + centralized logging with Graylog or Rsyslog
+- Stage 6: Threat detection in TryHackMe / BlueTeamLabs
+- Final: Resume-ready PDF + GitHub Pages showcase
 
 ---
 

@@ -1,4 +1,4 @@
-# Security+ Homelab Portfolio 🛡️
+# Security+ Homelab Portfolio
 
 This repository is a hands-on portfolio built while preparing for the **CompTIA Security+ certification (SY0-701)**. It demonstrates practical cybersecurity skills across system hardening, vulnerability scanning, and firewall implementation using real tools in virtual environments.
 

@@ -2,6 +2,9 @@
 
 This repository is a hands-on portfolio built while preparing for the **CompTIA Security+ certification (SY0-701)**. It demonstrates practical cybersecurity skills across system hardening, vulnerability scanning, and firewall implementation using real tools in virtual environments.
 
+![license](https://img.shields.io/badge/license-MIT-blue)
+![status](https://img.shields.io/badge/build-passing-brightgreen)
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Stage Breakdown](#stage-breakdown)

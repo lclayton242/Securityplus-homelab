@@ -27,6 +27,8 @@ This repository is a hands-on portfolio built while preparing for the **CompTIA 
 | 2️ Hardening | Enabled UFW, SSH config, and patching | [`bash-history.txt`](./ubuntu-hardening/bash-history.txt) |
 | 3️ Scanning | Ran Nmap and captured output | [`nmap-report.txt`](./ubuntu-hardening/nmap-report.txt) |
 | 4️ Firewall | Built pfSense firewall VM with SSH-only rule | [`pfsense-lan-rules.png`](./ubuntu-hardening/screenshots/pfsense-lan-rules.png) |
+| 5️ Log Forwarding & Graylog | Graylog stack + syslog stream | [`logging/`](logging/) |
+
 
 ## Live Proof-of-Work
 
@@ -46,7 +48,6 @@ All stages include:
 
 ## Upcoming Stages
 
-- Stage 5: Syslog + centralized logging with Graylog or Rsyslog
 - Stage 6: Threat detection in TryHackMe / BlueTeamLabs
 - Final: Resume-ready PDF + GitHub Pages showcase
 

@@ -5,13 +5,6 @@ This repository is a hands-on portfolio built while preparing for the **CompTIA 
 ![license](https://img.shields.io/badge/license-MIT-blue)
 ![status](https://img.shields.io/badge/build-passing-brightgreen)
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Stage Breakdown](#stage-breakdown)
-3. [Folder Structure](#folder-structure)
-4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-
 ## Project Goals
 
 - Build a realistic, local homelab in VirtualBox
